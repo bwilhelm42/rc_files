@@ -1,0 +1,6 @@
+alias l='ls'
+alias norm='norminette'
+alias la='ls -la'
+alias wgcc='gcc -Wall -Wextra -Werror'
+alias cl='clear'
+alias ..='cd ..'
